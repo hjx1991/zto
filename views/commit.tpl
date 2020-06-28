@@ -7,6 +7,6 @@
 <body>
     <h1>{{.username}}</h1>
     <h1>{{.password}}</h1>
-    <h1>Home</h1>
+    <h1>Home master</h1>
 </body>
 </html>
