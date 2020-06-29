@@ -100,7 +100,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update test" />
     <MESSAGE value="update master" />
-    <option name="LAST_COMMIT_MESSAGE" value="update master" />
+    <MESSAGE value="update master2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="update master2020" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
